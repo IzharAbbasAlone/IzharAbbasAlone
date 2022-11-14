@@ -4,9 +4,7 @@ Welcome and thanks for your interest and checking out my Customization work.  I 
 
 
 - 👋 Hi, I’m @AlisIzhar
-- 👀 I’m interested in CS
-- 🌱 I’m currently learning Everything
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Computer Science
 - 📫 How to reach me [YouTube](https://youtube.com/Izharbhaiofficial)
 
 If you like my work and wish to support it buy me a [Ko-fi](https://ko-fi.com/alisizhar)!  Thanks.
