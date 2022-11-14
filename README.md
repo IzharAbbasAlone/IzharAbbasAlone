@@ -4,10 +4,14 @@ Welcome and thanks for your interest and checking out my Customization work.  I 
 
 
 - 👋 Hi, I’m @AlisIzhar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in CS
+- 🌱 I’m currently learning Everything
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me [YouTube](https://youtube.com/Izharbhaiofficial)
+
+If you like my work and wish to support it buy me a [Ko-fi](https://ko-fi.com/alisizhar)!  Thanks.
+
+ -AlisIzhar
 
 <!---
 AlisIzhar/AlisIzhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
