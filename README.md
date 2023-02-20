@@ -7,7 +7,7 @@ Welcome and thanks for your interest and checking out my Customization work.  I 
 - 👀 I’m interested in Computer Science
 - 📫 How to reach me [YouTube](https://youtube.com/Izharbhaiofficial)
 
-If you like my work and wish to support it buy me a [Ko-fi](https://ko-fi.com/alisizhar)!  Thanks.
+If you like my work and wish to support it buy me a [Ko-fi](https://ko-fi.com/izharabbasalone)!  Thanks.
 
  -IzharAbbasAlone
 
