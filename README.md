@@ -1,11 +1,11 @@
-### Here is What I'm Working On! 👋
+### Hi 👋 I am Izhar Abbas
 
-Welcome and thanks for your interest and checking out my Customization work.  I design and create themes for [Windows 10](https://github.com/IzharAbbasAlone) and [11](https://github.com/IzharAbbasAlone) along with many accompanying customization goodies such as 7tsp icon themes, [wallpapers](https://github.com/IzharAbbasAlone), and skins to complete a cohesive look for your desktop.  My work is free for personal use only and not to be redistributed, republished or shared without written permission and never for commercial use.  Much love has gone into these creations, please respect the work.
-
-
-- 👋 Hi, I’m @IzharAbbasAlone
-- 👀 I’m interested in Computer Science
-- 📫 How to reach me [YouTube](https://youtube.com/Izharbhaiofficial)
+A General Research Specialist learning new technologies to innovate the world.
+⚡ Fun fact: I am a Research Expert.
+👯 I’m looking to collaborate on General Research Projects.
+🔭 I’m currently building real-world projects using my premium tools to collect data.
+📫 How to reach me: Izharabbasalone@gmail.com
+Want to Connect with me? [Linkedin](https://www.linkedin.com/in/izharabbasalone/)
 
 If you like my work and wish to support it buy me a [Ko-fi](https://ko-fi.com/izharabbasalone)!  Thanks.
 
